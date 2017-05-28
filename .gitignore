@@ -1,0 +1,8 @@
+
+tempfile1.txt
+tempfile2.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+
