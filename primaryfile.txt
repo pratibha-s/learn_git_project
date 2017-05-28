@@ -1,0 +1,11 @@
+
+This is a text file for git project
+
+
+One more line in first file
+
+another line added in first file
+
+
+
+

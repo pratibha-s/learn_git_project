@@ -1,0 +1,3 @@
+this is proj_file1 file
+this is the file of the project and learning git by using it.
+
