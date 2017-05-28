@@ -9,3 +9,12 @@ another line added in first file
 
 
 
+Q: Which operating systems does an Application Load Balancer support?
+An Application Load Balancer supports targets with any operating system currently supported by the Amazon EC2 service.
+
+Q: Which protocols does an Application load balancer support?
+An Application Load Balancer supports load balancing of applications using HTTP and HTTPS (Secure HTTP) protocols.
+
+Q: Is HTTP/2 Supported on an Application load balancer?
+Yes. HTTP/2 support is enabled natively on an Application Load Balancer. Clients that support HTTP/2 can connect to an Application Load Balancer over TLS.
+
