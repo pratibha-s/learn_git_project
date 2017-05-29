@@ -10,3 +10,5 @@ An Application Load Balancer supports load balancing of applications using HTTP 
 Q: Is HTTP/2 Supported on an Application load balancer?
 Yes. HTTP/2 support is enabled natively on an Application Load Balancer. Clients that support HTTP/2 can connect to an Application Load Balancer over TLS.
 
+Q: What TCP ports can I use to load balance?
+You can perform load balancing for the following TCP ports: 1-65535
